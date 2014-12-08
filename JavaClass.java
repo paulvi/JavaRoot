@@ -6,7 +6,7 @@ public class JavaClass {
 
 	}
 	
-	static String hello(String name) {
+	public static String hello(String name) {
 	    System.out.format("Hi there from Java, %s", name);
 	    return "greetings from java";
 	}
