@@ -1,0 +1,2 @@
+var javaClass = Java.type('mypackage.MyJavaClass');
+javaClass.hello();
